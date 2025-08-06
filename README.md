@@ -1,8 +1,8 @@
 ### 학습 정리
 
-| 날짜       | 주제                                              | 링크   |
+| 목표 기간       | 주제                                              | 링크   |
 |------------|---------------------------------------------------|--------|
-| 2025.08.10 | Microservice와 Spring Cloud의 소개                  |        |
+| 2025.08.10 | Microservice와 Spring Cloud의 소개                  | [1주차 학습 문서](https://github.com/bum0w0/spring-cloud-msa-study/tree/main/study_document)    |
 | 2025.08.17 | Service Discovery                                 |        |
 | 2025.08.24 | API Gateway Service                               |        |
 | 2025.08.31 | E-commerce 애플리케이션                               |        |
