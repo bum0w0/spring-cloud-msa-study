@@ -3,7 +3,7 @@
 | 목표 기간       | 주제                                              | 링크   |
 |------------|---------------------------------------------------|--------|
 | 2025.08.10 | Microservice와 Spring Cloud의 소개                  | [1주차 학습 문서](https://github.com/bum0w0/spring-cloud-msa-study/blob/main/study_document/%5B1주차%5D%20Microservice와%20SpringCloud의%20소개.pdf)    |
-| 2025.08.17 | Service Discovery                                 | [1주차 학습 문서](https://github.com/bum0w0/spring-cloud-msa-study/blob/main/study_document/%5B2주차%5D%20Service%20Discovery.pdf)    |
+| 2025.08.17 | Service Discovery                                 | [2주차 학습 문서](https://github.com/bum0w0/spring-cloud-msa-study/blob/main/study_document/%5B2주차%5D%20Service%20Discovery.pdf)    |
 | 2025.08.24 | API Gateway Service                               |        |
 | 2025.08.31 | E-commerce 애플리케이션                               |        |
 | 2025.09.07 | Users Microservice (1)                            |        |
