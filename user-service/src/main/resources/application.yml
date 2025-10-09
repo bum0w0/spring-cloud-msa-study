@@ -21,7 +21,7 @@ spring:
   security:
     user:
       name: user
-      password: $2a$12$t0cl/QFROohrZY6nTVlIr.KeGUtf/IyyfXP8YdSQ83r1YLgMbRbFa
+      password: $2a$10$4dUx4.6y8DnBpxhaFfj6lubIa5FeyMqQQM67XOogUNIDTdQ6nw4Qy
 
 logging:
   level:
