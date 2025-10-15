@@ -7,7 +7,7 @@
 | 2025.08.24 | API Gateway Service                               | [3주차 학습 문서](https://github.com/bum0w0/spring-cloud-msa-study/blob/main/study_document/%5B3%EC%A3%BC%EC%B0%A8%5D%20API%20Gateway%20Service.pdf) |
 | 2025.08.31 | E-commerce 애플리케이션                           | [4주차 학습 문서](https://github.com/bum0w0/spring-cloud-msa-study/blob/main/study_document/%5B4주차%5D%20E-commerce%20애플리케이션.pdf) |
 | 2025.09.07 | Users Microservice (1)                            |  [5주차 학습 문서](https://github.com/bum0w0/spring-cloud-msa-study/blob/main/study_document/%5B5주차%5D%20Users%20Microservice(1).pdf)      |
-| 2025.09.14 | Catalogs and Orders Microservice                  |        |
+| 2025.09.14 | Catalogs and Orders Microservice                  |  [6주차 학습 문서](https://github.com/bum0w0/spring-cloud-msa-study/blob/main/study_document/%5B6주차%5D%20Catalogs%20and%20Orders%20Microservice.pdf)  |
 | 2025.09.21 | Users Microservice (2)                            |        |
 | 2025.09.28 | Configuration Service                             |        |
 | 2025.10.05 | Spring Cloud Bus                                  |        |
